@@ -24,7 +24,7 @@ import static com.xxdp.utils.RedisConstants.CACHE_SHOP_KEY;
 import static com.xxdp.utils.RedisConstants.SHOP_GEO_KEY;
 
 @SpringBootTest
-class HmDianPingApplicationTests {
+class XxDianPingApplicationTests {
 
     @Resource
     private CacheClient cacheClient;
