@@ -35,7 +35,7 @@ import static com.xxdp.utils.RedisConstants.FEED_KEY;
  * 服务实现类
  * </p>
  *
- * @author 
+ * @author
  */
 @Service
 public class BlogServiceImpl extends ServiceImpl<BlogMapper, Blog> implements IBlogService {
